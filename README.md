@@ -1,4 +1,4 @@
-Here I create the pong game with Javascript, Css and a little bit of HTML
+Here I create the pong game with Javascript, CSS and a little bit of HTML
 
 Have fun :-P
 
